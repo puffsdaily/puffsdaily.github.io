@@ -4,13 +4,15 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+你好，我是泡芙，一位熱愛生活與旅行的部落客。
+在這裡，我用文字與影像，紀錄日常的溫度、小旅行的驚喜、美食的療癒時刻，還有生活裡那些讓人會心一笑的小確幸。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+「泡芙小日子」誕生於對平凡生活的熱愛，希望每個日子都像泡芙一樣，外脆內軟、甜而不膩，有著溫柔而真實的層次。
 
-What else do you need?
+📍分享主題：
+	•	🧳 旅行札記：從城市漫步到秘境探訪，記錄每一段旅程的風景與感動
+	•	🍽 美食日常：不藏私推薦喜歡的咖啡店、小吃、甜點與特色餐廳
+	•	🏡 生活靈感：療癒小物、居家佈置、閱讀心得，讓生活更有溫度
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+若你也喜歡用心過日子、享受片刻美好，歡迎一起加入「泡芙小日子」的旅程。
+願我們在這裡，相遇每一個溫暖的片段 💛
