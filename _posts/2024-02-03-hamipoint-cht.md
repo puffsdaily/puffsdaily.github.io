@@ -2,9 +2,9 @@
 layout: post
 title: 【生活】Hami Point 折抵中華電信行動方案
 subtitle: Hami Point 原來還能這樣用
-cover-img: /assets/img/202402/hami-point-discount.png
-thumbnail-img: /assets/img/202402/hami-point-discount.png
-share-img: /assets/img/202402/hami-point-discount.png
+cover-img: /assets/img/202402/hamipoint-discount.jpg
+thumbnail-img: /assets/img/202402/hamipoint-discount.jpg
+share-img: /assets/img/202402/hamipoint-discount.jpg
 tags: [hamipoint, life]
 author: Kuma
 ---
